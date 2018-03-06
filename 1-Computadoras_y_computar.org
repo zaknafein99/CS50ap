@@ -10,7 +10,7 @@ De alguna manera las computadoras necesitan traducir las entradas en salidas, pr
 
 * El proceso computacional
 El proceso de traducir entradas en salidas es conocido como *proceso computacional*, e involucra realizar una serie de cálculos en forma de un algoritmo.
-El proceso computacional puede variar en complejidad y en el número de pasoso requeridos para completar una tarea. A veces, el proceso computacional es relativamente simple, como el proceso de calcular 5+3. En otros casos, muchas tareas computacionales son mucho más complicadas. Todas las tareas que realiza una computadora, como calcular la ruta de casa al trabajo con el GPS, o poner una alarma a determinada hora, requiere computación.
+El proceso computacional puede variar en complejidad y en el número de pasoso requeridos para completar una tarea. A veces, el proceso computacional es relativamente simple, como el proceso de calcular 5+3. En otros casos, muchas tareas computacionales son mucho más complicadas. Todas las tareas que realiza una computadora, como calcular la ruta de casa al liceo con el GPS, o poner una alarma a determinada hora, requiere computación.
 
 * Cómo funciona una computadora
 Cada parte de una computadora sirve para una función específica, y juntas permiten a la computadora realizar tareas. Las computadoras requieren una combinación de *hardware*, las partes físicas que componen una computadora, y *software*, los programas e instrucciones que corren en la computadora. Gran parte del hardware está unido a la placa madre (motherboard), que contiene el hardware que ayuda a las diferentes partes a comunicarse entre ellas.
