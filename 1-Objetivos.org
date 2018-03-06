@@ -1,0 +1,14 @@
+* Resumen
+Hay computadoras en todos lados, no solo notebooks y de escritorio. Ahora tenemos tablets, celulares, relojes, y muchas cosas más que realizan las mismas funciones. Los estudiantes son desafiados a considerar que hace a una computadora, pensar acerca de los lazos comunes que unifican todas esas cosas que llamamos "computadoras", y también a pensar fuera de la caja y ver otras cosas que son computadoras, pero no en el sentido tradicional. Al final nuestra definición de una computadora es ésta: Una computadora es un dispositivo que acepta datos o entrada, los procesa de alguna forma y automáticamente produce un resultado.
+
+* Objetivos de aprendizaje
+  -Describe una variedad de abstracciones usadas para representar datos
+
+  -Usa computadoras para procesar información, hallar patrones, y probar hipotesis sobre información procesada digitalmente para obtener inspiración y conociemento
+  -Expresa un algoritmo en un lenguaje
+  -Evalúa algoritmos analítica y empíricamente por eficiencia, correctitud y claridad
+
+* Aprendizajes significativos
+  -Una variedad de abstracciones realizadas en secuencia binaria puede ser usada para representar todos los datos digitales
+  -Los algoritmos son una secuencia precisa de instrucciones que pueden ser ejecutadas por una computadora y implementados usando lenguajes de programación
+  -Los algoritmos pueden resolver muchos, pero no todos los pproblemas computacionales.
