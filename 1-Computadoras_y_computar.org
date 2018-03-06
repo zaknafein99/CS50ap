@@ -1,0 +1,14 @@
+* Resumen
+Una computadora en el sentido más general, es tan sólo un dispositivo que acepta datos o una entrada y la procesa de manera de obtener automáticamente un resultado. Cuando una computadora está haciendo algún tipo de trabajo, sea que esté abriendo una aplicación, editando una imagen o reproduciendo una canción, eatá *computando*. Computar, en el sentido más general, significa calcular. Para que una computadora pueda operar de correctamente, diferentes partes de la computadora deben comunicarse e interactuar entre ellas de la manera correcta.
+
+* Entradas y salidas
+Una computadora comienza tomando algún tipo de datos o información, llamada *entrada*. La entrada puede tomar una variedad de formas - clicks del ratón, teclas, toques en una pantalla táctil o botones. La entrada también puede tomar formas menos tradicionales: como la forma en que los detectores de humo toman información del ambiente, o la forma en que los autos toman la información del volante para determinar hacia dónde doblar.
+Las computadoras usan la entrada que sel suministra para generar un resultado. En ciencias de la computación, este resultado es llamado *salida*. En el caso tradicional de una computadora de escritorio, la salida toma la forma de lo que sea que se muestre en la pantalla del usuario. Pero la salida puede tomar muchas otras formas, como producir un sonido o causar movimiento.
+De alguna manera las computadoras necesitan traducir las entradas en salidas, procesando la información de la entrada de forma de generar la salida necesaria. Este proceso toma la forma de un *algoritmo*, el cual es un conjunto de órdenes que una computadora debe seguir para trducir las entradas en las salidas deseadas. *Programar* es el proceso de proveer a una computadora con un conjunto de instrucciones, o un algoritmo, de forma de realizar una tarea en particular.
+
+* El proceso computacional
+El proceso de traducir entradas en salidas es conocido como *proceso computacional*, e involucra realizar una serie de cálculos en forma de un algoritmo.
+El proceso computacional puede variar en complejidad y en el número de pasoso requeridos para completar una tarea. A veces, el proceso computacional es relativamente simple, como el proceso de calcular 5+3. En otros casos, muchas tareas computacionales son mucho más complicadas. Todas las tareas que realiza una computadora, como calcular la ruta de casa al trabajo con el GPS, o poner una alarma a determinada hora, requiere computación.
+
+* Cómo funciona una computadora
+
